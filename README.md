@@ -3,6 +3,7 @@
 <b style='color: blue'>Data Enthusiast</b>
 
 <h4> Kaggle Ranking </h4>
+
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/notebook/light)
