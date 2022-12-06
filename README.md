@@ -1,6 +1,6 @@
 <h1> Wonduk Seo </h1>
 
-<b>Data Enthusiast</b>
+<b style='color: blue'>Data Enthusiast</b>
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/dataset/light)
