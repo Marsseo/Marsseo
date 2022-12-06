@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @MarsSeo
-- 👀 I’m interested in ML and C++
-- 🌱 I’m currently learning ML, DL and NLP
+<h1> Wonduk Seo </h1>
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/dataset/light)
