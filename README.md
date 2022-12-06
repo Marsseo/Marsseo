@@ -1,5 +1,7 @@
 <h1> Wonduk Seo </h1>
 
+<b>Data Enthusiast</b>
+
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/notebook/light)
