@@ -1,6 +1,6 @@
 <h1> Wonduk Seo </h1>
 
-<b style='color: blue'>Data Enthusiast</b>
+<b style='color: blue'>I have a strong background in working with data, including data analysis, data visualization, database system and implementing machine learning algorithms in Python.</b>
 
 <h2>Competition</h2>
 1. Kaggle Playground Series Season3, Episode11 (Regression Classification)  <br/> 
