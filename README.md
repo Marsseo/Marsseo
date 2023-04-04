@@ -3,7 +3,7 @@
 I have a strong background in working with data, including data analysis, data visualization, <br/> database system and implementing machine deep learning algorithms in Python.<br/>
 
 <h2>Competition</h2>
-1. Kaggle Playground Series Season3, Episode11 (Regression Classification)  <br/> 
+1. Kaggle Playground Series Season3, Episode11 (Regression)  <br/> 
 Ranked in top 1% (6th of 952)<br/> <br/> 
 2. Kaggle Playground Series Season3, Episode10 (Binary Classification) <br/> 
 Ranked in top 2% (16th of 807) <br/> 
