@@ -2,7 +2,7 @@
 
 <b style='color: blue'>Data Enthusiast</b>
 
-<h1>Competition</h1>
+<h2>Competition</h2>
 1. Kaggle Playground Series Season3, Episode11 (Regression Classification) 
 Ranked in top 1% (6th of 952)
 2. Kaggle Playground Series Season3, Episode10 (Binary Classification) 
