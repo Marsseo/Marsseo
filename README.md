@@ -10,7 +10,7 @@
  
 ---
 
-<h2> Kaggle Ranking </h2>
+<h3><center> My Kaggle Ranking </center></h2>
 
 <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/competition/light" alt="competition"/>
