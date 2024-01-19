@@ -10,7 +10,7 @@
  
 ---
 
-<h3><center> My Kaggle Ranking </center></h2>
+<h3 align = "center">My Kaggle Ranking </h3>
 
 <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/competition/light" alt="competition"/>
