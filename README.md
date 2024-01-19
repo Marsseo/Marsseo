@@ -7,11 +7,14 @@
 - 🧐 I'm interested in LLMs with RAG and PEFT.
 
 - 🏸 I love playing Tennis.
+ 
 ---
-![](https://komarev.com/ghpvc/?username=MarsSeo)
 
----
+<h2> Kaggle Ranking </h2>
+
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/discussion/light)
+
+![](https://komarev.com/ghpvc/?username=MarsSeo)
