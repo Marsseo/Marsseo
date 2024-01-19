@@ -12,9 +12,11 @@
 
 <h2> Kaggle Ranking </h2>
 
+<center>
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/discussion/light)
+</center>
 
 ![](https://komarev.com/ghpvc/?username=MarsSeo)
