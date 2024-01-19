@@ -9,3 +9,9 @@
 - 🏸 I love playing Tennis.
 ---
 ![](https://komarev.com/ghpvc/?username=MarsSeo)
+
+---
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{wonduk}/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{wonduk}/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{wonduk}/discussion)
