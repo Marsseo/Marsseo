@@ -18,7 +18,9 @@
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/notebook/light" alt="notebook"/>
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/discussion/light" alt="discussion"/>
 </p>
+
 * LLM Science Exam (2023.10) – Bronze Medal🥉
+* 
 * CAFA 5 Protein Function Prediction (2023.12) – Silver Medal🥈
 
 ![](https://komarev.com/ghpvc/?username=MarsSeo)
