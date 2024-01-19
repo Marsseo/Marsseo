@@ -11,7 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=MarsSeo)
 
 ---
-![light version][competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/competition)
-![light version][dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/dataset)
-![light version][notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/notebook)
-![light version][discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/discussion)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/discussion/light)
