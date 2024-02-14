@@ -12,12 +12,8 @@
 
 <h3 align = "center">My Kaggle Ranking </h3>
 
-<p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/competition/light" alt="competition"/>
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/dataset/light" alt="dataset"/>
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/notebook/light" alt="notebook"/>
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/wonduk/discussion/light" alt="discussion"/>
-</p>
+<img width="833" alt="스크린샷 2024-02-14 오후 5 00 16" src="https://github.com/MarsSeo/MarsSeo/assets/103374757/2058887e-f9e9-45cf-b3bd-3d189c7edc04">
+
 
 * LLM Science Exam (2023.10) – Bronze Medal🥉
 * CAFA 5 Protein Function Prediction (2023.12) – Silver Medal🥈
