@@ -12,7 +12,9 @@
 
 <h3 align = "center">My Kaggle Ranking </h3>
 
-<img width="833" alt="스크린샷 2024-02-14 오후 5 00 16" src="https://github.com/MarsSeo/MarsSeo/assets/103374757/2058887e-f9e9-45cf-b3bd-3d189c7edc04">
+<p align="center">
+ <img width="833" alt="스크린샷 2024-02-14 오후 5 00 16" src="https://github.com/MarsSeo/MarsSeo/assets/103374757/2058887e-f9e9-45cf-b3bd-3d189c7edc04">
+</p>
 
 
 * LLM Science Exam (2023.10) – Bronze Medal🥉
