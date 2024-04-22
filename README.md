@@ -51,7 +51,7 @@ _Feb 2023 - Apr 2023 (3 months)_
 Seoul, South Korea (On-site)  
 Implemented predictive models and conducted statistical analysis to improve decision-making processes.
 
-    </td>
+   </td>
     <td valign="top" width="50%">
 
 **Research Assistant**  
@@ -71,7 +71,7 @@ Engineered and maintained scalable data pipelines, supporting critical chemical 
 _Jun 2022 - Jan 2023 (8 months)_  
 Focused on research projects in statistical analysis and machine learning, presenting findings at several academic forums.
 
-    </td>
+   </td>
 </tr>
 </table>
 
