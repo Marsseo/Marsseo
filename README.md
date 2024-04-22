@@ -17,7 +17,7 @@
 <p align="center">
  <img width="885" alt="image" src="https://github.com/MarsSeo/MarsSeo/assets/103374757/46103444-17cf-467c-860b-f630cdb01598">
 </p>
-
+2024/04/22 Updated
 ---
 
 * LLM Science Exam (2023.10) – Bronze Medal🥉
