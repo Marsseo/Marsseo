@@ -13,10 +13,10 @@
 <h2 align = "center">My Kaggle Ranking </h2>
  
 <p align="center">
- <img width="885" alt="image" src="https://github.com/MarsSeo/MarsSeo/assets/103374757/46103444-17cf-467c-860b-f630cdb01598">
+<img width="849" alt="스크린샷 2024-06-16 11 31 51" src="https://github.com/MarsSeo/MarsSeo/assets/103374757/81614e45-6a09-4176-b2d6-4bfa211c5487">
 </p>
 
-2024/04/22 Updated
+2024/06/16 Updated
 
 ---
 
