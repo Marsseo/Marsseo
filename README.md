@@ -2,7 +2,7 @@
 
 - 🦆 I’m an undergraduate Student @ PKU.
 
-- ⚙️ I’m currently Working in the ML Industry.
+- ⚙️ I’m currently Working in the ML, LLM Industry.
 
 - 🧐 I'm interested in LLMs with RAG and PEFT.
 
