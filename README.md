@@ -20,6 +20,7 @@
 
 ---
 
+* Enefit - Predict Energy Behavior of Prosumers (2024.05) – Bronze Medal🥉
 * LLM Science Exam (2023.10) – Bronze Medal🥉
 * CAFA 5 Protein Function Prediction (2023.12) – Silver Medal🥈
 * Harvard Medical School Harmful Brain Activity Classification (2024.04) - Bronze Medal🥉
